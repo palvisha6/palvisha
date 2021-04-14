@@ -1,0 +1,143 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Montserrat", sans-serif;
+}
+
+.container {
+  padding: 2rem;
+  line-height: 1.5;
+  column-gap: 200px;
+}
+
+p {
+  margin: 2rem 0 1.5rem;
+}
+
+
+
+.card {
+  position: relative;
+  margin-bottom: 2rem;
+  padding: 2rem;
+  background: #fff;
+}
+
+.card img {
+  display: block;
+}
+@media screen and (min-width: 768px) {
+  .c__multicol {
+    gap: 2rem;
+    -webkit-column-width: 30vw;
+    -moz-column-width: 30vw;
+    column-width: 30vw;
+  }
+  .card {
+    break-inside: avoid;
+    -webkit-column-break-inside: avoid;
+    -moz-column-break-inside: avoid;
+  }
+}
+.logo {
+  width: 70px;
+  height: 70px;
+  position: absolute;
+  right: 800px;
+  top: 10px;
+  display: inline-block;
+}
+
+.girl__image {
+  position: absolute;
+  right: 90px;
+  top: 150px;
+  height: 550px;
+  width: 550px;
+  background: transparent;
+}
+li,
+a {
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+  font-size: 14px;
+  color: black;
+  letter-spacing: 2px;
+}
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 30px 10%;
+}
+.nav__link1 {
+  list-style: none;
+  position: absolute;
+  right: 1300px;
+}
+.nav__link1 li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+.nav__link2 {
+  list-style: none;
+  position: absolute;
+  right: 1030px;
+}
+.nav__link2 li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+.nav__link3 {
+  list-style: none;
+  position: absolute;
+  right: 550px;
+}
+.nav__link3 li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+.nav__link4 {
+  list-style: none;
+  position: absolute;
+  right: 250px;
+}
+.nav__link4 li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+.nav__link5 {
+  list-style: none;
+  position: absolute;
+  right: 150px;
+}
+.nav__link2 li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+.article__1{
+  height: 300px;
+  width: 400px;
+}
+.article__2{
+  height: 300px;
+  width: 400px;
+}
+.article__3{
+  height: 300px;
+  width: 400px;
+}
+.article__4{
+  height: 300px;
+  width:200px;
+}
+.article__5{
+  height: 300px;
+  width: 200px;
+}
+.article__6{
+  height: 300px;
+  width: 400px;
+}
+
+
