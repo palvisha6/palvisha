@@ -56,14 +56,6 @@ p {
   width: 550px;
   background: transparent;
 }
-li,
-a {
-  font-family: "Montserrat", sans-serif;
-  font-weight: bold;
-  font-size: 14px;
-  color: black;
-  letter-spacing: 2px;
-}
 header {
   display: flex;
   justify-content: space-between;
