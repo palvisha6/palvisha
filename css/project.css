@@ -97,7 +97,7 @@ header {
 .article__category{
   color: black;
 }
-.article__content .card__excerpt {
+.article__content .article__category{
   font-size: 14px;
   margin: 0;
   display: block;
@@ -105,7 +105,7 @@ header {
 .article__category{
   font-weight: bold;
 }
-.article__content .card__category {
+.article__content .article__category{
   font-size: 14px;
   display: block;
   font-family: "Montserrat", sans-serif;
