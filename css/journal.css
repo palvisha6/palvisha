@@ -84,6 +84,9 @@ header {
   position: absolute;
   right: 1030px;
 }
+.article__4 .card p{
+  text-decoration: none;
+}
 .nav__link2 li {
   display: inline-block;
   padding: 0px 20px;
