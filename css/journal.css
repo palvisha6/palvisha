@@ -56,11 +56,88 @@ p {
   width: 550px;
   background: transparent;
 }
+li,
+a {
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+  font-size: 14px;
+  color: black;
+  letter-spacing: 2px;
+}
 header {
   display: flex;
   justify-content: space-between;
   align-items: center;
   padding: 30px 10%;
+}
+.nav__link1 {
+  list-style: none;
+  position: absolute;
+  right: 1300px;
+}
+.nav__link1 li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+.nav__link2 {
+  list-style: none;
+  position: absolute;
+  right: 1030px;
+}
+.nav__link2 li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+.nav__link3 {
+  list-style: none;
+  position: absolute;
+  right: 550px;
+}
+.nav__link3 li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+.nav__link4 {
+  list-style: none;
+  position: absolute;
+  right: 250px;
+}
+.nav__link4 li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+.nav__link5 {
+  list-style: none;
+  position: absolute;
+  right: 150px;
+}
+.nav__link2 li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+.article__1{
+  height: 300px;
+  width: 400px;
+}
+.article__2{
+  height: 300px;
+  width: 400px;
+}
+.article__3{
+  height: 300px;
+  width: 400px;
+}
+.article__4{
+  height: 300px;
+  width:200px;
+}
+.article__5{
+  height: 300px;
+  width: 200px;
+}
+.article__6{
+  height: 300px;
+  width: 400px;
 }
 nav {
 	position: fixed;
@@ -112,7 +189,7 @@ nav .links a {
 	padding: 1em;
 	font-size: 16px;
 	font-weight: bold;
-	color: black;
+	color: #fff;
 	text-decoration: none;
 }
 #nav-toggle {
@@ -201,7 +278,6 @@ nav .icon-burger .line {
   font-size: 1rem;
   font-weight: 800;
   line-height: 1.8rem;
-  text-decoration: none;
 }
 ul {
   display: block;
@@ -243,7 +319,7 @@ a {
   justify-content: space-between;
   width: 42%;
 }
-.footer h1 {
+.footer h4 {
   margin-bottom: 2rem;
   margin-top: .5rem;
   font-size: .75rem;
@@ -306,7 +382,6 @@ body {
   background: black;
   color: white;
 }
-nav .links a:hover{
-  text-decoration: underline;
-}
+
+
 
