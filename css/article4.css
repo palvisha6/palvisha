@@ -109,7 +109,6 @@ nav .icon-burger .line {
 		flex-direction: column;
 		justify-content: space-evenly;
 		background-color: rgba(0,0,0,.8);
-		overflow: hidden;
 		box-sizing: border-box;
 		transition: all .5s ease-in-out;
 	}
@@ -166,9 +165,9 @@ img{
     font-size: 18px;
     justify-content: center;
     position: absolute;
-    bottom: -1250px;
+    bottom: -1300px;
     line-height: 40px;
-    right: 50px;
+    right: 150px;
 }
   
 h2{
@@ -190,7 +189,7 @@ p + h2 {
  
 .video{
     position: absolute;
-    right: 500px;
+    right: 100px;
 }
 nav .links a:hover{
 	text-decoration: underline;

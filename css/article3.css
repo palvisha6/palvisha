@@ -108,7 +108,7 @@ nav .icon-burger .line {
 		flex-direction: column;
 		justify-content: space-evenly;
 		background-color: rgba(0,0,0,.8);
-		overflow: hidden;
+
 		box-sizing: border-box;
 		transition: all .5s ease-in-out;
 	}
@@ -166,7 +166,7 @@ img{
     position: absolute;
     bottom: -1480px;
     line-height: 40px;
-    right: 50px;
+    right: 150px;
 }
   
 h2{
@@ -188,6 +188,7 @@ p + h2 {
 .screenshot__1{
     position: absolute;
     bottom: -525px;
+    left: 50px;
 }
 .step__2{
     bottom: -770px;
@@ -200,6 +201,7 @@ p + h2 {
 .screenshot__2{
     position: absolute;
     bottom: -1300px;
+    left: 50px;
 }
 .step__3{
     position: absolute;
@@ -212,6 +214,7 @@ p + h2 {
 .screenshot__3{
     position: absolute;
     bottom: -2000px;
+    left: 50px;
 }
 .title__3{
     bottom: -2080px;
@@ -225,6 +228,7 @@ p + h2 {
     position: absolute;
     bottom: -2700px;
     right: 400px;
+    left: 50px;
 }
 .morestep{
     position: absolute;
@@ -242,6 +246,7 @@ p + h2 {
 .screenshot__5{
     position: absolute;
     bottom: -3790px;
+    left: 50px;
 }
 .step__6{
     position: absolute;
@@ -258,6 +263,7 @@ p + h2 {
 .screenshot__6{
     position: absolute;
     bottom: -4625px;
+    left: 50px;
 
 }
 .step__7{
@@ -270,7 +276,8 @@ p + h2 {
 }
 .screenshot__7{
     position: absolute;
-    bottom: -5450px
+    bottom: -5450px;
+    left: 50px;
 }
 .step__8{
     position: absolute;
@@ -300,6 +307,7 @@ p + h2 {
 nav .links a:hover{
     text-decoration: underline;
   }
+
 
 
   
