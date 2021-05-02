@@ -102,6 +102,9 @@ header {
   margin: 0;
   display: block;
 }
+.article__category{
+  font-weight: bold;
+}
 .article__content .card__category {
   font-size: 14px;
   display: block;
