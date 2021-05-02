@@ -142,6 +142,9 @@ nav {
 	height: 100px;
 	background-color: #4ecebc;
 }
+p{
+  font-weight: bold;
+}
 svg {
   height: 1.4rem;
   transition: all 0.2s;
@@ -181,7 +184,7 @@ nav .links a {
 	padding: 1em;
 	font-size: 16px;
 	font-weight: bold;
-	color: #fff;
+	color: black;
 	text-decoration: none;
 }
 #nav-toggle {
