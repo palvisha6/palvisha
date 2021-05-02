@@ -94,6 +94,9 @@ header {
 .article__content {
   padding: 2rem;
 }
+.article__category{
+  color: black;
+}
 .article__content .card__excerpt {
   font-size: 14px;
   margin: 0;
