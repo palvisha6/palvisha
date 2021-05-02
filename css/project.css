@@ -168,6 +168,9 @@ header {
   left: 0;
   cursor: pointer;
 }
+.article__category{
+  text-decoration: none;
+}
 @media screen and (min-width: 768px) {
   .site__container {
     max-width: 608px;
