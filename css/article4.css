@@ -199,3 +199,6 @@ p + h2 {
     position: absolute;
     right: 500px;
 }
+nav .links a:hover{
+	color: #00FFF4;
+  }

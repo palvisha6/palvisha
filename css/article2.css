@@ -225,4 +225,7 @@ p + h2 {
 	  right:0;
   }
   }
+  nav .links a:hover{
+	color: #00FFF4;
+  }
   

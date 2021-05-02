@@ -235,6 +235,9 @@ nav .links a {
 	color: #fff;
 	text-decoration: none;
 }
+nav .links a:hover{
+  color: #00FFF4;
+}
 #nav-toggle {
 	position: absolute;
 	top: -100px;

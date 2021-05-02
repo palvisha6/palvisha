@@ -151,3 +151,6 @@ nav .icon-burger .line {
 	}
 	
 }
+nav .links a:hover{
+	color: #00FFF4;
+  }

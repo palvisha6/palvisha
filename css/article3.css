@@ -305,6 +305,9 @@ p + h2 {
     position: absolute;
     bottom: -6210px;
 }
+nav .links a:hover{
+    color: #00FFF4;
+  }
 
 
   

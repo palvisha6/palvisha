@@ -406,4 +406,6 @@ input[type=text], select, textarea{
     resize: vertical;
   }
   
-  
+nav .links a:hover{
+    color: #00FFF4;
+}
