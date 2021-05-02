@@ -281,6 +281,7 @@ nav .icon-burger .line {
   font-size: 1rem;
   font-weight: 800;
   line-height: 1.8rem;
+  text-decoration: none;
 }
 ul {
   display: block;
