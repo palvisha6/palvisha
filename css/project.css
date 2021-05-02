@@ -239,7 +239,7 @@ nav .links a {
 	text-decoration: none;
 }
 nav .links a:hover{
-  color: #00FFF4;
+  text-decoration: underline;
 }
 #nav-toggle {
 	position: absolute;
@@ -282,9 +282,10 @@ nav .icon-burger .line {
 		overflow: hidden;
 		box-sizing: border-box;
 		transition: all .5s ease-in-out;
+    font-size: 40px;
 	}
 	nav .links a {
-		font-size: 20px;
+		font-size: 40px;
 	}
 	nav :checked ~ .links {
 		bottom: 0;

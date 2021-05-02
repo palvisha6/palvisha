@@ -229,5 +229,5 @@ p + h2 {
   }
   }
   nav .links a:hover{
-	color: #00FFF4;
+	text-decoration: underline;
   }

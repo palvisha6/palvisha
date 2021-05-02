@@ -152,5 +152,5 @@ nav .icon-burger .line {
 	
 }
 nav .links a:hover{
-	color: #00FFF4;
+	text-decoration: underline;
   }
