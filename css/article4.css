@@ -148,15 +148,17 @@ nav .icon-burger .line {
 }
 img{
     position: absolute;
-    right: 700px;
+    right: 600px;
     bottom: -180px;
+	width: 300px;
+	height: 300px;
     
 
 }
 .written__by{
     position: absolute;
     bottom: -270px;
-    right: 700px;
+    right: 650px;
     font-weight: bold;
     
 }
